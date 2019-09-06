@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("company")
 public class CompanyController {
 
+    
 
     @ApiOperation(value = "getAnyCompany", notes = "getAnyCompany via json request.", responseContainer = "getAnyCompany", response = CompanyDTO.class)
     @GetMapping("/getAnyCompany")
