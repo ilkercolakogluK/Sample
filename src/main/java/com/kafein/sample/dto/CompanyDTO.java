@@ -10,6 +10,7 @@ public class CompanyDTO {
     private long id;
     private String name;
     private String foundedYear;
+    private int totalFee;
 
 
 }

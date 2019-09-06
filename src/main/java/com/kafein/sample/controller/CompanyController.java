@@ -23,14 +23,7 @@ public class CompanyController {
         companyDTO.setId(1);
         companyDTO.setName("Amazon");
         companyDTO.setFoundedYear("1999");
-
-        companyDTO.setId(2);
-        companyDTO.setName("Google");
-        companyDTO.setFoundedYear("1998");
-
-        companyDTO.setId(3);
-        companyDTO.setName("Apple");
-        companyDTO.setFoundedYear("2018");
+        companyDTO.setTotalFee(98);
         return companyDTO;
     }
 
