@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ded10e7b-787a-4c87-9437-67ba42f48bee" name="Default Changelist" comment="" />
+    <list default="true" id="ded10e7b-787a-4c87-9437-67ba42f48bee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kafein/sample/controller/CompanyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kafein/sample/controller/CompanyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kafein/sample/KafeinSampleApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kafein/sample/KafeinSampleApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kafein/sample/dto/CompanyDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kafein/sample/dto/CompanyDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sample.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/sample.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sample.war.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/sample.war.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sample/WEB-INF/classes/com/kafein/sample/controller/CompanyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/sample/WEB-INF/classes/com/kafein/sample/controller/CompanyController.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,8 +161,23 @@
       <updated>1567759674472</updated>
       <workItem from="1567759677782" duration="1025000" />
       <workItem from="1567769770025" duration="560000" />
-      <workItem from="1567770436322" duration="1783000" />
+      <workItem from="1567770436322" duration="3522000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1567781713505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567781713505</updated>
+    </task>
+    <task id="LOCAL-00002" summary="third commit">
+      <created>1567781892789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567781892789</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,5 +195,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>

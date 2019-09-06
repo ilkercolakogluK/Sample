@@ -19,7 +19,7 @@ public class CompanyController {
     @ApiOperation(value = "getAnyCompany", notes = "getAnyCompany via json request.", responseContainer = "getAnyCompany", response = CompanyDTO.class)
     @GetMapping("/getAnyCompany")
     public CompanyDTO getAnyCompany() {
-        CompanyDTO companyDTO=new CompanyDTO();
+        CompanydDTO companyDTO=new CompanyDTO();
         companyDTO.setId(1);
         companyDTO.setName("Amazon");
         companyDTO.setFoundedYear("1999");
